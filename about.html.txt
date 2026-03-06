@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>About - Dynavera Private Limited</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+
+<h1>Dynavera Private Limited</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="services.html">Services</a>
+<a href="solutions.html">Solutions</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+</header>
+
+
+<section>
+
+<h2>About Us</h2>
+
+<p>
+Dynavera Private Limited is a technology services company focused on supporting telecom
+infrastructure development and digital network transformation.
+</p>
+
+<p>
+Our team works with telecom operators, engineering firms, and technology providers
+to deliver accurate network documentation, GIS mapping, and infrastructure planning.
+</p>
+
+<p>
+We combine telecom expertise with modern software tools to support scalable
+and efficient broadband network deployment.
+</p>
+
+</section>
+
+
+<footer>
+
+<p>© 2026 Dynavera Private Limited</p>
+
+</footer>
+
+</body>
+
+</html>

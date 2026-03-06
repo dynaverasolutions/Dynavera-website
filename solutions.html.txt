@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Solutions - Dynavera Private Limited</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+
+<h1>Dynavera Private Limited</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="services.html">Services</a>
+<a href="solutions.html">Solutions</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+</header>
+
+
+<section>
+
+<h2>Our Solutions</h2>
+
+<p>
+Dynavera provides end-to-end telecom engineering support solutions designed
+to improve network reliability and accelerate broadband deployment.
+</p>
+
+<p>
+Our services help telecom companies streamline operations,
+maintain accurate infrastructure records, and optimize network planning.
+</p>
+
+</section>
+
+
+<footer>
+
+<p>© 2026 Dynavera Private Limited</p>
+
+</footer>
+
+</body>
+
+</html>
